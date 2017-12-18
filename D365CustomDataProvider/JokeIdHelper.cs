@@ -3,6 +3,7 @@ using System.Collections.Generic;
 
 namespace D365CustomDataProvider
 {
+    //This is for example purposes only
     public class JokeIdHelper
     {
         public Dictionary<string, string> Mappings { get; set; }
